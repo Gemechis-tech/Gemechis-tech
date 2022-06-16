@@ -1,9 +1,10 @@
-# Hi There i'm Gemechis Shiferaw! 
+# Hi There i'm Gemechis Shiferaw! 👋 
+
+<img align="right" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemechis-tech&layout=compact" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gemechis-tech&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemechis-tech&layout=compact" />
-
+## Language and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
